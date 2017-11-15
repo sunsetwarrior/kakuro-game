@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/res">
+        <file alias="/icon.png">res/image/icon.png</file>
+        <file alias="/black.png">res/image/ClueBgBk.png</file>
+        <file alias="/white.png">res/image/ClueBgWh.png</file>
+        <file alias="/slash.png">res/image/icon-forward-slash.png</file>
+        <file alias="/33000012.json">res/game/33000012.json</file>
+        <file alias="/DD000033.json">res/game/DD000033.json</file>
+        <file alias="/99000005.json">res/game/99000005.json</file>
+    </qresource>
+    <qresource prefix="/res/image">
+        <file>res/image/icon.png</file>
+        <file>res/image/ClueBgBk.png</file>
+        <file>res/image/ClueBgWh.png</file>
+        <file>res/image/icon-forward-slash.png</file>
+    </qresource>
+    <qresource prefix="/res/game">
+        <file>res/game/33000012.json</file>
+        <file>res/game/DD000033.json</file>
+        <file>res/game/99000005.json</file>
+    </qresource>
+    <qresource prefix="/game">
+        <file alias="/game/33000012.json">res/game/33000012.json</file>
+        <file alias="/game/DD000033.json">res/game/DD000033.json</file>
+        <file alias="/game/99000005.json">res/game/99000005.json</file>
+    </qresource>
+</RCC>

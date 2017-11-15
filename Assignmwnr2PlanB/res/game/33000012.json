@@ -1,0 +1,90 @@
+{
+    "gamefile": [{
+        "id": "33000012"
+    }, {
+        "puzzle": [
+            [0, 0, 0],
+            [0, 9, 6],
+            [0, 3, 1]
+        ]
+    }, {
+        "game": [{
+            "row": [{
+                "cell": {
+                    "id": "0_0",
+                    "type": "b",
+                    "clue": {
+                        "right": 0,
+                        "down": 0
+                    }
+                }
+            }, {
+                "cell": {
+                    "id": "0_1",
+                    "type": "c",
+                    "clue": {
+                        "right": 0,
+                        "down": 12
+                    }
+                }
+            }, {
+                "cell": {
+                    "id": "0_2",
+                    "type": "c",
+                    "clue": {
+                        "right": 0,
+                        "down": 7
+                    }
+                }
+            }]
+        }, {
+            "row": [{
+                "cell": {
+                    "id": "1_0",
+                    "type": "c",
+                    "clue": {
+                        "right": 15,
+                        "down": 0
+                    }
+                }
+            }, {
+                "cell": {
+                    "id": "1_1",
+                    "type": "a",
+                    "answer": 0
+                }
+            }, {
+                "cell": {
+                    "id": "1_2",
+                    "type": "a",
+                    "answer": 0
+                }
+            }]
+        }, {
+            "row": [{
+                "cell": {
+                    "id": "2_0",
+                    "type": "c",
+                    "clue": {
+                        "right": 4,
+                        "down": 0
+                    }
+                }
+            }, {
+                "cell": {
+                    "id": "2_1",
+                    "type": "a",
+                    "answer": 0
+                }
+            }, {
+                "cell": {
+                    "id": "2_2",
+                    "type": "a",
+                    "answer": 0
+                }
+            }]
+        }]
+    }, {
+        "moves": ["0"]
+    }]
+}
