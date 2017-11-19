@@ -18,7 +18,9 @@ Game Required:
 
 Qt 
 
-
-
+This is school group project, 4 people did 25% each.
+My part:
+game ui
+feature 5
 
 
